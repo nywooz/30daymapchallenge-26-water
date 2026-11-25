@@ -1,0 +1,6 @@
+{
+  "name": "HydroSphere Atlas — Day 26 Water Showcase",
+  "description": "Interactive November 26 #30DayMapChallenge cartographic showcase powered by Google Maps Platform and deck.gl WebGL layers with an automated guided tour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
